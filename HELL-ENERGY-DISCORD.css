@@ -1,0 +1,534 @@
+.u-section-1 {
+  min-height: 464px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 352px;
+  margin-top: 112px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: -228px calc(((100% - 1140px) / 2) + 803px) 0 80px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 9px calc(((100% - 1140px) / 2) + 803px) 0 80px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: 9px auto 60px 80px;
+  padding: 8px 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    height: 270px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: calc(((100% - 940px) / 2) + 633px);
+    margin-left: 50px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-right: calc(((100% - 940px) / 2) + 633px);
+    margin-left: 50px;
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-btn-1 {
+    width: 207px;
+    margin-left: calc(((100% - 940px) / 2) + 21px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 297px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 184px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -163px;
+    margin-right: calc(((100% - 720px) / 2) + 413px);
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 0;
+    margin-right: calc(((100% - 720px) / 2) + 413px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-bottom: 25px;
+    margin-left: 50px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    height: 185px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -160px;
+    margin-right: calc(((100% - 540px) / 2) + 270px);
+    margin-left: 13px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -2px;
+    margin-right: calc(((100% - 540px) / 2) + 270px);
+    margin-left: 13px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-bottom: 24px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 278px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 166px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -203px;
+    margin-right: calc(((100% - 340px) / 2) + 83px);
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 0.75rem;
+    margin-top: 24px;
+    margin-right: calc(((100% - 340px) / 2) + 209px);
+    margin-left: calc(((100% - 340px) / 2) + -38px);
+  }
+
+  .u-section-1 .u-btn-1 {
+    width: 131px;
+    margin-top: 7px;
+    margin-bottom: 14px;
+    margin-left: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 594px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 574px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 280px;
+  height: 339px;
+  margin: -4px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: 33px -214px 0 auto;
+  padding: 8px 201px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 460px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  margin-top: 104px;
+  margin-bottom: 0;
+  margin-right: 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin-bottom: 0;
+  margin-top: 20px;
+  margin-right: 0;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  min-height: 460px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 0;
+}
+
+.u-section-2 .u-image-2 {
+  height: 303px;
+  margin-top: 14px;
+  margin-bottom: 0;
+  margin-left: 0;
+}
+
+.u-section-2 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: 24px -230px 0 0;
+  padding: 8px 215px 8px 214px;
+}
+
+.u-section-2 .u-btn-3 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: 10px -230px -30px 0;
+  padding: 8px 215px 8px 214px;
+}
+
+.u-section-2 .u-layout-cell-4 {
+  min-height: 460px;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 129px 0 0;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 10px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 438px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    min-height: 117px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 413px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 175px;
+    height: 212px;
+    margin-top: -285px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 45px;
+    margin-right: auto;
+    margin-left: 0;
+    padding-left: 176px;
+    padding-right: 176px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 379px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 0;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    background-position: 50% 50%;
+    min-height: 379px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 250px;
+    margin-top: -8px;
+    margin-bottom: -8px;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: 20px;
+    padding-right: 185px;
+    padding-left: 184px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 379px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 977px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    min-height: 110px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: -737px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    padding-right: 304px;
+    padding-left: 303px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 383px;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: 405px;
+    margin-bottom: 60px;
+    padding-left: 317px;
+    padding-right: 317px;
+  }
+
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1702px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    min-height: 550px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 872px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: -1309px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    align-self: flex-end;
+    padding-right: 214px;
+    padding-left: 213px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 176px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 575px;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: 937px;
+    margin-bottom: 30px;
+    padding-left: 227px;
+    padding-right: 227px;
+  }
+
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 187px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+  }
+
+  .u-section-2 .u-text-4 {
+    width: auto;
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1077px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    min-height: 117px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 415px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-top: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 223px;
+    height: 270px;
+    margin-top: 0;
+  }
+
+  .u-section-2 .u-btn-1 {
+    align-self: center;
+    margin-top: 75px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-right: 114px;
+    padding-left: 113px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 131px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: -203px;
+    margin-right: -10px;
+    margin-left: 10px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 0;
+    margin-right: -10px;
+    margin-left: 10px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 417px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 362px;
+    margin-top: -177px;
+    margin-bottom: 0;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-top: 106px;
+    margin-right: auto;
+    margin-bottom: 0;
+    padding-left: 127px;
+    padding-right: 127px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 0;
+    padding-right: 123px;
+    padding-left: 122px;
+  }
+
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 60px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: -266px;
+  }
+} HELL MASZK Nálunk már menő HELL-es maszk is rendelhető! Vedd meg 2 tálca mellé és a szállítás ingyenes lesz! 
+                                    Megrendelem!
+                                 HELL Classic Night Megérkezett első WEBSHOP EXKLUZÍV TERMÉKÜNK! A megszokott vitaminok mellett a HELL CLASSIC NIGHT Ginsenget is tartalmaz, a termék doboza pedig UV fényben fluoreszkál! Doboz gyűjtők figyelem! 
+                                    Megrendelem!
+                                 Megérkeztek az új HELL Ice Cool ízek! Törd meg a fagyos hangulatot a megújult HELL Ice Cool energiaitalokkal! Rendeld meg őket , hiszen 2 tálca vásárlása esetén ingyenesen házhoz visszük neked új kedvenceidet! 
+                                    Megrendelem!
+                                 Nézd meg új reklámfilmünket! Bruce Willis újra igent mondott a HELL-re, a minőségre és az élvezetre! A hollywoodi legenda ezúttal nem egyedül tűnik fel reklámfilmünkben, partnere a gyönyörű és tehetséges Zuleyka 
+                                    Megnézem!
+                                 Feltúrbóztuk legnépszerűbb energiaitalunkat! A HELL Classicba 500 mg C-vitamint tettünk és emellett D-vitaminnal is kiegészítettük. A C-és D-vitaminok hozzájárulnak az immunrendszer normál működéséhez.  Vigyázzunk egymásra! 
+                                    Megrendelem!
+                                 HELL ENERGY Páros maszkok A páros különlegességeinket piros organza tasakban küldjük neked, így a csomagolásra sem lesz gondod. 
+                                    Megrendelem
+                                 Exkluzív HELL 6 PACK ajándék 2 tálca HELL energiaital vagy Energy Coffee vásárlása után! Lemaradtál decemberben?! Akkor most ne késlekedj, hiszen korlátozott ideig újra elérhető Exkluzív 6 pack dobozunk! 
+                                    Részletek
+                                 Szerezd be saját 6 pack dobozod! CSAK EZEN A HÉTEN tart a promóció, siessetek mert limitált számban elérhető ez az exkluzív termék! 
+                                    Megrendelem!
+                                 Újdonságok a HELL ENERGY STOREBAN! Ne maradj le!  
+                                    Megrendelem!
+                                 HELL MASZK Nálunk már menő HELL-es maszk is rendelhető! Vedd meg 2 tálca mellé és a szállítás ingyenes lesz! 
+                                    Megrendelem!
+                                 HELL Classic Night Megérkezett első WEBSHOP EXKLUZÍV TERMÉKÜNK! A megszokott vitaminok mellett a HELL CLASSIC NIGHT Ginsenget is tartalmaz, a termék doboza pedig UV fényben fluoreszkál! Doboz gyűjtők figyelem! 
+                                    Megrendelem!
+                                 Megérkeztek az új HELL Ice Cool ízek! Törd meg a fagyos hangulatot a megújult HELL Ice Cool energiaitalokkal! Rendeld meg őket , hiszen 2 tálca vásárlása esetén ingyenesen házhoz visszük neked új kedvenceidet! 
+                                    Megrendelem!
+                                 Nézd meg új reklámfilmünket! Bruce Willis újra igent mondott a HELL-re, a minőségre és az élvezetre! A hollywoodi legenda ezúttal nem egyedül tűnik fel reklámfilmünkben, partnere a gyönyörű és tehetséges Zuleyka 
+                                    Megnézem!
+                                 Feltúrbóztuk legnépszerűbb energiaitalunkat! A HELL Classicba 500 mg C-vitamint tettünk és emellett D-vitaminnal is kiegészítettük. A C-és D-vitaminok hozzájárulnak az immunrendszer normál működéséhez.  Vigyázzunk egymásra! 
+                                    Megrendelem!
+                                 HELL ENERGY Páros maszkok A páros különlegességeinket piros organza tasakban küldjük neked, így a csomagolásra sem lesz gondod. 
+                                    Megrendelem
+                                 Exkluzív HELL 6 PACK ajándék 2 tálca HELL energiaital vagy Energy Coffee vásárlása után! Lemaradtál decemberben?! Akkor most ne késlekedj, hiszen korlátozott ideig újra elérhető Exkluzív 6 pack dobozunk! 
+                                    Részletek
+                                 Szerezd be saját 6 pack dobozod! CSAK EZEN A HÉTEN tart a promóció, siessetek mert limitált számban elérhető ez az exkluzív termék! 
+                                    Megrendelem!
+                                 Újdonságok a HELL ENERGY STOREBAN! Ne maradj le!  
+                                    Megrendelem!
+                                 HELL MASZK Nálunk már menő HELL-es maszk is rendelhető! Vedd meg 2 tálca mellé és a szállítás ingyenes lesz! 
+                                    Megrendelem!
+                                ‹›
